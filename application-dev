@@ -1,5 +1,6 @@
-application:
-  name: config-dev
+spring:
+  application:
+    name: config-dev
 
 eureka:
   client:
